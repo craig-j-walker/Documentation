@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="21008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -101,7 +101,7 @@
 			</Item>
 			<Item Name="Custom Temperature Controller configuration.lvclass" Type="LVClass" URL="../Modules/Custom Temperature Controller/module/configuration/Custom Temperature Controller configuration.lvclass"/>
 			<Item Name="Custom Temperature Controller runtime.lvclass" Type="LVClass" URL="../Modules/Custom Temperature Controller/module/execution/Custom Temperature Controller runtime.lvclass"/>
-			<Item Name="Temperature Chamber Model configuration.lvclass" Type="LVClass" URL="../Modules/Temperature Chamber Model/module/configuration/Temperature Chamber Model configuration.lvclass"/>
+			<Item Name="Temperature Chamber Model configuration.lvclass" Type="LVClass" URL="../../../../Hands-On_1/Exercises/Temperature Controller/Modules/Temperature Chamber Model/module/configuration/Temperature Chamber Model configuration.lvclass"/>
 			<Item Name="Temperature Chamber Model runtime.lvclass" Type="LVClass" URL="../Modules/Temperature Chamber Model/module/execution/Temperature Chamber Model runtime.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
